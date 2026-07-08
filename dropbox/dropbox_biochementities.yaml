@@ -1,8 +1,9 @@
 suggester: https://orcid.org/0000-0003-0322-9620
 biochementity_subclasses:
-- name: Perfluoropropanoic acid (PFPrA)
+- name: Perfluoropropanoic acid
   parent_biochementities:
   - https://w3id.org/peh/terms/BioChemEntity
+  short_name: PFPrA
   remark: 'NORMAN SusDat ID: NS00001703'
   molweight_grampermol: 164.031
   exact_matches:
@@ -11,9 +12,10 @@ biochementity_subclasses:
   - https://identifiers.org/inchikey:LRMSQVBRUNSOJL-UHFFFAOYSA-N
   group_labels:
   - PFAS
-- name: Perfluoropentanesulfonic acid (PFPeS)
+- name: Perfluoropentanesulfonic acid
   parent_biochementities:
   - https://w3id.org/peh/terms/BioChemEntity
+  short_name: PFPeS
   remark: 'NORMAN SusDat ID: NS00011290'
   molweight_grampermol: 350.1
   exact_matches:
@@ -33,9 +35,10 @@ biochementity_subclasses:
   - https://identifiers.org/inchikey:ISFKSWMQWIRDNC-UHFFFAOYSA-N
   group_labels:
   - PFAS
-- name: 2H,2H,3H,3H-Perfluorooctanoic acid (5:3 FTCA)
+- name: 2H,2H,3H,3H-Perfluorooctanoic acid
   parent_biochementities:
   - https://w3id.org/peh/terms/BioChemEntity
+  short_name: 5:3 FTCA
   remark: 'NORMAN SusDat ID: NS00011090'
   molweight_grampermol: 342.108
   exact_matches:
@@ -44,9 +47,10 @@ biochementity_subclasses:
   - https://identifiers.org/inchikey:ABFCFCPCGMHSRX-UHFFFAOYSA-N
   group_labels:
   - PFAS
-- name: 3-Perfluoroheptylpropanoic acid (7:3 FTCA)
+- name: 3-Perfluoroheptylpropanoic acid
   parent_biochementities:
   - https://w3id.org/peh/terms/BioChemEntity
+  short_name: 7:3 FTCA
   remark: 'NORMAN SusDat ID: NS00008860'
   molweight_grampermol: 442.124
   exact_matches:
@@ -55,9 +59,10 @@ biochementity_subclasses:
   - https://identifiers.org/inchikey:HLBRGVKRZQSQHB-UHFFFAOYSA-N
   group_labels:
   - PFAS
-- name: 2-Perfluorohexyl ethanoic acid (6:2 FTCA)
+- name: 2-Perfluorohexyl ethanoic acid
   parent_biochementities:
   - https://w3id.org/peh/terms/BioChemEntity
+  short_name: 6:2 FTCA
   remark: 'NORMAN SusDat ID: NS00011084'
   molweight_grampermol: 378.089
   exact_matches:
@@ -66,9 +71,10 @@ biochementity_subclasses:
   - https://identifiers.org/inchikey:LRWIIEJPCFNNCZ-UHFFFAOYSA-N
   group_labels:
   - PFAS
-- name: 2-Perfluorooctyl ethanoic acid (8:2 FTCA)
+- name: 2-Perfluorooctyl ethanoic acid
   parent_biochementities:
   - https://w3id.org/peh/terms/BioChemEntity
+  short_name: 8:2 FTCA
   remark: 'NORMAN SusDat ID: NS00011081'
   molweight_grampermol: 478.105
   exact_matches:
@@ -77,9 +83,10 @@ biochementity_subclasses:
   - https://identifiers.org/inchikey:XTBXSCIWOVSSGB-UHFFFAOYSA-N
   group_labels:
   - PFAS
-- name: 2-Perfluorodecyl ethanoic acid (10:2 FTCA)
+- name: 2-Perfluorodecyl ethanoic acid
   parent_biochementities:
   - https://w3id.org/peh/terms/BioChemEntity
+  short_name: 10:2 FTCA
   remark: 'NORMAN SusDat ID: NS00011082'
   molweight_grampermol: 578.12
   exact_matches:
@@ -88,9 +95,10 @@ biochementity_subclasses:
   - https://identifiers.org/inchikey:IKHNVATUHWDNGI-UHFFFAOYSA-N
   group_labels:
   - PFAS
-- name: 3-(Perfluoropentyl)-3-fluoro-2-propenoic acid (6:2 FTUCA)
+- name: 3-(Perfluoropentyl)-3-fluoro-2-propenoic acid
   parent_biochementities:
   - https://w3id.org/peh/terms/BioChemEntity
+  short_name: 6:2 FTUCA
   remark: 'NORMAN SusDat ID: NS00011103'
   molweight_grampermol: 358.083
   exact_matches:
@@ -99,9 +107,10 @@ biochementity_subclasses:
   - https://identifiers.org/inchikey:BKOBFLVYTXYFQZ-UHFFFAOYSA-N
   group_labels:
   - PFAS
-- name: 2H-Perfluoro-2-dodecenoate (10:2 FTUCA)
+- name: 2H-Perfluoro-2-dodecenoate
   parent_biochementities:
   - https://w3id.org/peh/terms/BioChemEntity
+  short_name: 10:2 FTUCA
   remark: 'NORMAN SusDat ID: NS00111432'
   molweight_grampermol: 558.114
   exact_matches:
@@ -132,9 +141,10 @@ biochementity_subclasses:
   - https://identifiers.org/inchikey:BZZAKKWGRKFWJJ-UHFFFAOYSA-N
   group_labels:
   - PFAS
-- name: Bis(tridecafluorohexyl)phosphinic acid (6:6 PFPi)
+- name: Bis(tridecafluorohexyl)phosphinic acid
   parent_biochementities:
   - https://w3id.org/peh/terms/BioChemEntity
+  short_name: 6:6 PFPi
   remark: 'NORMAN SusDat ID: NS00011284'
   molweight_grampermol: 702.07
   exact_matches:
@@ -143,9 +153,10 @@ biochementity_subclasses:
   - https://identifiers.org/inchikey:NKHVPWOARFMIPG-UHFFFAOYSA-N
   group_labels:
   - PFAS
-- name: Perfluorohexylperfluorooctyl phosphinic acid (6:8 PFPi)
+- name: Perfluorohexylperfluorooctyl phosphinic acid
   parent_biochementities:
   - https://w3id.org/peh/terms/BioChemEntity
+  short_name: 6:8 PFPi
   remark: 'NORMAN SusDat ID: NS00011285'
   molweight_grampermol: 802.086
   exact_matches:
@@ -154,9 +165,10 @@ biochementity_subclasses:
   - https://identifiers.org/inchikey:CQORQFOHIKVJET-UHFFFAOYSA-N
   group_labels:
   - PFAS
-- name: Bis(heptadecafluorooctyl)phosphinic acid (8:8 PFPi)
+- name: Bis(heptadecafluorooctyl)phosphinic acid
   parent_biochementities:
   - https://w3id.org/peh/terms/BioChemEntity
+  short_name: 8:8 PFPi
   remark: 'NORMAN SusDat ID: NS00011286'
   molweight_grampermol: 902.101
   exact_matches:
@@ -186,9 +198,10 @@ biochementity_subclasses:
   - https://identifiers.org/inchikey:TXNZTTQBKZRWQR-UHFFFAOYSA-N
   group_labels:
   - PFAS
-- name: 6-Chloroperfluorohexylphosphonic acid (Cl-PFHxPA)
+- name: 6-Chloroperfluorohexylphosphonic acid
   parent_biochementities:
   - https://w3id.org/peh/terms/BioChemEntity
+  short_name: Cl-PFHxPA
   remark: 'NORMAN SusDat ID: NS00114383'
   molweight_grampermol: 416.48
   exact_matches:
@@ -197,9 +210,10 @@ biochementity_subclasses:
   - https://identifiers.org/inchikey:SSYJCIUXWUSGKG-UHFFFAOYSA-N
   group_labels:
   - PFAS
-- name: Perfluorooctylphosphoric acid (PFOPA)
+- name: Perfluorooctylphosphoric acid
   parent_biochementities:
   - https://w3id.org/peh/terms/BioChemEntity
+  short_name: PFOPA
   remark: 'NORMAN SusDat ID: NS00011280'
   molweight_grampermol: 500.048
   exact_matches:
@@ -284,9 +298,10 @@ biochementity_subclasses:
   - https://identifiers.org/inchikey:ZDWGXBPVPXVXMQ-UHFFFAOYSA-N
   group_labels:
   - Phthalates
-- name: Bisphenol A (BPA)
+- name: Bisphenol A
   parent_biochementities:
   - https://w3id.org/peh/terms/BioChemEntity
+  short_name: BPA
   remark: 'NORMAN SusDat ID: NS00008865'
   molweight_grampermol: 228.291
   exact_matches:
@@ -295,9 +310,10 @@ biochementity_subclasses:
   - https://identifiers.org/inchikey:IISBACLAFKSPIT-UHFFFAOYSA-N
   group_labels:
   - Bisphenols
-- name: 4,4'-Sulfonyldiphenol (Bisphenol S)
+- name: 4,4'-Sulfonyldiphenol
   parent_biochementities:
   - https://w3id.org/peh/terms/BioChemEntity
+  short_name: Bisphenol S
   remark: 'NORMAN SusDat ID: NS00010610'
   molweight_grampermol: 250.27
   exact_matches:
@@ -306,9 +322,10 @@ biochementity_subclasses:
   - https://identifiers.org/inchikey:VPWNQTHUCYMVMZ-UHFFFAOYSA-N
   group_labels:
   - Bisphenols
-- name: Bis(4-hydroxyphenyl)methane (Bisphenol F)
+- name: Bis(4-hydroxyphenyl)methane
   parent_biochementities:
   - https://w3id.org/peh/terms/BioChemEntity
+  short_name: Bisphenol F
   remark: 'NORMAN SusDat ID: NS00009451'
   molweight_grampermol: 200.237
   exact_matches:
@@ -383,9 +400,10 @@ biochementity_subclasses:
   - https://identifiers.org/inchikey:LVLNPXCISNPHLE-UHFFFAOYSA-N
   group_labels:
   - Bisphenols
-- name: 2,2′-Methylenebis[phenol] (2,2'-BPF)
+- name: 2,2′-Methylenebis[phenol]
   parent_biochementities:
   - https://w3id.org/peh/terms/BioChemEntity
+  short_name: 2,2'-BPF
   remark: 'NORMAN SusDat ID: NS00010221'
   molweight_grampermol: 200.237
   exact_matches:
@@ -394,18 +412,23 @@ biochementity_subclasses:
   - https://identifiers.org/inchikey:MQCPOLNSJCWPGT-UHFFFAOYSA-N
   group_labels:
   - Bisphenols
-- name: DCVA, cis-
+- name: 1R-cis-Permethrinic acid
   parent_biochementities:
   - https://w3id.org/peh/terms/BioChemEntity
+  short_name: DCVA, cis-
   remark: 'NORMAN SusDat ID: NS00123208'
   exact_matches:
   - https://identifiers.org/cas:55667-40-8
   - https://identifiers.org/inchikey:LLMLSUSAKZVFOA-INEUFUBQSA-N
   group_labels:
+  - pesticides pyrethroid
   - Pesticides
-- name: Lindane (g-HCH)
+  is_metabolite_of:
+  - https://w3id.org/peh/biochementities/RAtG_WqzkgqM9jmS6ImTGcnWw0TJSegspAHDbQ9y9w19Q
+- name: Lindane
   parent_biochementities:
   - https://w3id.org/peh/terms/BioChemEntity
+  short_name: g-HCH
   remark: 'NORMAN SusDat ID: NS00002327'
   molweight_grampermol: 290.81
   exact_matches:
@@ -668,36 +691,40 @@ biochementity_subclasses:
   - https://identifiers.org/cas:191-07-1
   - https://identifiers.org/pubchem.compound:9115
   - https://identifiers.org/inchikey:VPUGDVKSAQVFFS-UHFFFAOYSA-N
-- name: 2-Ethylhexyl diphenyl phosphate (EHDP)
+- name: 2-Ethylhexyl diphenyl phosphate
   parent_biochementities:
   - https://w3id.org/peh/terms/BioChemEntity
+  short_name: EHDP
   remark: 'NORMAN SusDat ID: NS00010020'
   molweight_grampermol: 362.406
   exact_matches:
   - https://identifiers.org/cas:1241-94-7
   - https://identifiers.org/pubchem.compound:14716
   - https://identifiers.org/inchikey:CGSLYBDCEGBZCG-UHFFFAOYSA-N
-- name: Tris(1,3-dichloro-2-propyl) phosphate (TDCIPP)
+- name: Tris(1,3-dichloro-2-propyl) phosphate
   parent_biochementities:
   - https://w3id.org/peh/terms/BioChemEntity
+  short_name: TDCIPP
   remark: 'NORMAN SusDat ID: NS00010388'
   molweight_grampermol: 430.89
   exact_matches:
   - https://identifiers.org/cas:13674-87-8
   - https://identifiers.org/pubchem.compound:26177
   - https://identifiers.org/inchikey:ASLWPAWFJZFCKF-UHFFFAOYSA-N
-- name: Triisobutyl phosphate (TIBP)
+- name: Triisobutyl phosphate
   parent_biochementities:
   - https://w3id.org/peh/terms/BioChemEntity
+  short_name: TIBP
   remark: 'NORMAN SusDat ID: NS00008118'
   molweight_grampermol: 266.318
   exact_matches:
   - https://identifiers.org/cas:126-71-6
   - https://identifiers.org/pubchem.compound:31355
   - https://identifiers.org/inchikey:HRKAMJBPFPHCSD-UHFFFAOYSA-N
-- name: Triethyl phosphate (TEP)
+- name: Triethyl phosphate
   parent_biochementities:
   - https://w3id.org/peh/terms/BioChemEntity
+  short_name: TEP
   remark: 'NORMAN SusDat ID: NS00009400'
   molweight_grampermol: 182.156
   exact_matches:
@@ -741,9 +768,10 @@ biochementity_subclasses:
   - https://identifiers.org/cas:29761-21-5
   - https://identifiers.org/pubchem.compound:34697
   - https://identifiers.org/inchikey:RYUJRXVZSJCHDZ-UHFFFAOYSA-N
-- name: Tetraphenyl m-phenylene bis(phosphate)
+- name: Tetraphenyl m-phenylene bis
   parent_biochementities:
   - https://w3id.org/peh/terms/BioChemEntity
+  short_name: phosphate
   remark: 'NORMAN SusDat ID: NS00008442'
   molweight_grampermol: 574.462
   exact_matches:
