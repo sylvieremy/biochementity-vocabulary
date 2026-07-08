@@ -422,9 +422,6 @@ biochementity_subclasses:
   - https://identifiers.org/inchikey:LLMLSUSAKZVFOA-INEUFUBQSA-N
   group_labels:
   - pesticides pyrethroid
-  - Pesticides
-  is_metabolite_of:
-  - https://w3id.org/peh/biochementities/RAtG_WqzkgqM9jmS6ImTGcnWw0TJSegspAHDbQ9y9w19Q
 - name: Lindane
   parent_biochementities:
   - https://w3id.org/peh/terms/BioChemEntity
@@ -768,10 +765,9 @@ biochementity_subclasses:
   - https://identifiers.org/cas:29761-21-5
   - https://identifiers.org/pubchem.compound:34697
   - https://identifiers.org/inchikey:RYUJRXVZSJCHDZ-UHFFFAOYSA-N
-- name: Tetraphenyl m-phenylene bis
+- name: Tetraphenyl m-phenylene bis phosphate
   parent_biochementities:
   - https://w3id.org/peh/terms/BioChemEntity
-  short_name: phosphate
   remark: 'NORMAN SusDat ID: NS00008442'
   molweight_grampermol: 574.462
   exact_matches:
